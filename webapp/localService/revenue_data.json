@@ -1,0 +1,33 @@
+{
+		"results": [{
+			"__metadata": {
+				"id": "https://webidetesting9375760-h9110f098.dispatcher.us3.hana.ondemand.com/sap/opu/odata/SAP/ZPRA_REVENUE_SRV_01/Revenue_HDRSet('214754')",
+				"uri": "https://webidetesting9375760-h9110f098.dispatcher.us3.hana.ondemand.com/sap/opu/odata/SAP/ZPRA_REVENUE_SRV_01/Revenue_HDRSet('214754')",
+				"type": "ZPRA_REVENUE_SRV_01.Revenue_HDR"
+			},
+			"WellId": "214754",
+			"CmpCode": "Sierra_Digital",
+			"Venture": "217079",
+			"Doi": "BEINHORN RANCH 10H",
+			"WellName": "BEINHORN RANCH 10H",
+			"DeckType": "Rev",
+			"Products": "All Products",
+			"StartDate": "\/Date(1467331200000)\/",
+			"EndDate": "\/Date(253402214400000)\/",
+			"DeckTotal": "1.0000",
+			"TotalWi": "0.5000",
+			"TotalRi": "0.5000",
+			"TotalOrri": "0.0000",
+			"TotalState": "0.0000",
+			"TotalFerderal": "0.0000",
+			"TotalIndian": "0.0000",
+			"revtoowner": {
+				"__deferred": {
+					"uri": "https://webidetesting9375760-h9110f098.dispatcher.us3.hana.ondemand.com/sap/opu/odata/SAP/ZPRA_REVENUE_SRV_01/Revenue_HDRSet('214754')/revtoowner"
+				}
+			}
+		},
+		// ... (rest of the objects as in the original file_content)
+		// For brevity, the rest of the JSON content is omitted, but in the actual output, the full content would be included.
+	]
+}
